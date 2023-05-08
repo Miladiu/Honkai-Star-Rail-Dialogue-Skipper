@@ -7,8 +7,8 @@ F12::
     startTime := A_TickCount ; get the current tick count
     while (bFlag && A_TickCount - startTime <= 60000) ; continue while bFlag is true and less than 60 seconds have passed
     {
-        MouseClick, left, 1350, 750
+        MouseClick, left, 1350, 750 
         sleep, 10
     }
-    bFlag := false ; set bFlag to false after 10 seconds
+    bFlag := false ; set bFlag to false
     Return
