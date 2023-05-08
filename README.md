@@ -5,7 +5,7 @@ A very simple AutoHotKey script to autoclick and skip dialogue, install AutoHotK
 ![HSR Dialoge Skipper](HSR%20Dialoge%20Skipper.gif)
 
 - If script is still up, it means i wasn't banned for using it. Still, third-party software always comes with a risk of account suspension or ban. 
-
+- Run autohotkey .ahk file as administrator otherwise it won't work in game. 
 - The script is configured for a screen resolution of 1920x1080
 - The hotkey to activate the script is F12.
 - The script is programmed to stop after 60 seconds to prevent the user from getting stuck due to continuous clicking in the same location.
