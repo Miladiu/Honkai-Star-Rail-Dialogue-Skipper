@@ -4,11 +4,11 @@ SetBatchLines, -1
 
 F12::
     bFlag := !bFlag
-    startTime := A_TickCount ; get the current tick count
-    while (bFlag && A_TickCount - startTime <= 60000) ; continue while bFlag is true and less than 60 seconds have passed
+    startTime := A_TickCount
+    while (bFlag && A_TickCount - startTime <= 60000)
     {
         MouseClick, left, 1350, 750 
         sleep, 10
     }
-    bFlag := false ; set bFlag to false
+    bFlag := false
     Return
