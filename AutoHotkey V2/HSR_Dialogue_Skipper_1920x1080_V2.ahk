@@ -4,7 +4,7 @@ SetDefaultMouseSpeed(0)
 
 F12::
 {
-	static bFlag := false
+    static bFlag := false
     bFlag := !bFlag
     startTime := A_TickCount
     while bFlag && (A_TickCount - startTime <= 60000)
