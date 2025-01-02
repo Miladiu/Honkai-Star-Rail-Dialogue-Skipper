@@ -6,7 +6,7 @@ A very simple AutoHotKey script to autoclick and skip dialogue quickly. Third-pa
 
 ## Setup
 
-- Install [AutoHotKey](https://github.com/AutoHotkey/AutoHotkey) to run the code.
+- Install [AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) to run the code.
 - Run autohotkey .ahk file as administrator otherwise it won't work in game. 
 - The script is configured for a screen resolution of 1920x1080
 - The hotkey to activate the script is F12.
