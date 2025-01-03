@@ -1,10 +1,12 @@
 # Honkai-Star-Rail-Dialogue-Skipper
 
-A very simple AutoHotKey script to autoclick and skip dialogue, install AutoHotKey to run the code. 
+A very simple AutoHotKey script to autoclick and skip dialogue quickly. Third-party software always comes with a risk of account suspension or ban.
 
-![HSR Dialoge Skipper](HSR%20Dialoge%20Skipper.gif)
+![HSR Dialogue Skipper](HSR%20Dialogue%20Skipper.gif)
 
-- If script is still up, it means i wasn't banned for using it. Still, third-party software always comes with a risk of account suspension or ban. 
+## Setup
+
+- Install [AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) to run the code.
 - Run autohotkey .ahk file as administrator otherwise it won't work in game. 
 - The script is configured for a screen resolution of 1920x1080
 - The hotkey to activate the script is F12.
@@ -21,8 +23,3 @@ Below a list of approximate coordinates,
 - 3840x2160: (2700, 1500)
 
 Note that these coordinates are approximate and may require some adjustment based on individual systems and configurations.
-
-For best results, we recommend testing the script on a blank page or by using a program such as Paint to determine the exact coordinates neededfor your specific screen resolution.
-Simply open Paint in maximum resolution, select a color, and test the script by running it and observing where it clicks on the page. 
-You can then adjust the coordinates in the script to match the location you want to click on
-
